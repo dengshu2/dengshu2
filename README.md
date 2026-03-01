@@ -64,6 +64,9 @@
       <a href="https://github.com/dengshu2/flashsnap">
         <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github" />
       </a>
+      <a href="https://flashsnap.dengshu.ovh">
+        <img src="https://img.shields.io/badge/Demo-FF5722?style=flat-square&logo=googlechrome&logoColor=white" />
+      </a>
     </td>
     <td align="center" width="50%">
       <h4>🔭 Astrolabe</h4>
